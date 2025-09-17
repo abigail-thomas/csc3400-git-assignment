@@ -1,4 +1,4 @@
-Project Title: My Software Engineering Project
+Project Title: My Software Engineering Practice Project
 Abigail Thomas
 1293926
 
